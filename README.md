@@ -5,7 +5,6 @@
 
 Cursando análise e desenvolvimento de sistemas ✏️,\
 Minhas linguagens preferidas são Java ☕ e Python 🐍, algum dia irei estudar PHP 🐘...\
-Adepto ao KISS. (Keep it simple, stupid!)
 
 Meus hobbies são edição de vídeo 📽️, programação WEB 🌎 e jogos 🎮.
 
