@@ -1,7 +1,7 @@
 ### Olá, meu nome é Guilherme.
 
 Estou cursando análise e desenvolvimento de sistemas no IFPR - Campus Foz do Iguaçu.
-Foco no desenvolvimento back-end com django e spring boot.
+Foco no desenvolvimento com Spring Boot e React
 
 
 
