@@ -1,7 +1,7 @@
 ### Olá, meu nome é Guilherme.
 
 Estou cursando análise e desenvolvimento de sistemas no IFPR - Campus Foz do Iguaçu.
-Foco no desenvolvimento com Spring Boot e React
+Principais tecnologias: Java, Spring Boot, MySQL, Typescript, NextJS, React, React Native
 
 
 
